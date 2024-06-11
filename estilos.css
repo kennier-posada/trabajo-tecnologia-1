@@ -11,8 +11,11 @@
    display: flex;
      
 }
-body{
-    background-image: url("fondoss.jpg")
-    background-repeat: no-repeat;
 
+body{
+    background-image: url(pexels-dreamypixel-547114.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
