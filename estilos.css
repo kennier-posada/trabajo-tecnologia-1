@@ -19,3 +19,12 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+
+.titulo{
+
+font-size: 60px;
+color: rgb(255, 0, 0);
+text-align: center;
+
+
+}
