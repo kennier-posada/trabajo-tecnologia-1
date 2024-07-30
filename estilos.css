@@ -2,10 +2,10 @@
 
 .texto{
    
-    font-size: 40px;
-    padding-top: 140px;
+    font-size: 30px;
+    padding-top: 160px;
     text-align: justify;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .principal{
@@ -14,7 +14,7 @@
 }
 
 body{
-    background-image: url(pexels-dreamypixel-547114.jpg);
+    background-image: url(fondo\ jpg.avif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,7 +32,7 @@ font-family: Arial, Helvetica, sans-serif;
 .imagent{
 height: 171px;
 width: 300px;
-background-image: url(descarga.png);
+background-image: url(descarga.htm);
 background-repeat: no-repeat;
 float: right;
 
